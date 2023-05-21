@@ -76,6 +76,3 @@
 		</pluginManagement>
 	</build>
 </project>
-
-
-
